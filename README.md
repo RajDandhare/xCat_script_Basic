@@ -32,16 +32,16 @@ First CentOS ios file must be present in the script folder (stateless/statefull)
 
 Steps:
 
-> 1. first run common installation script ('bash <script_name>') (might need to change the ens port number in script)
+1. first run common installation script ('bash <script_name>') (might need to change the ens port number in script)
 
-> 2. You just need to run the bash script in the folders. just select one of the boot process stateless or statefull as per requirement.(might need to change the ens port number in script)
+2. You just need to run the bash script in the folders. just select one of the boot process stateless or statefull as per requirement.(might need to change the ens port number in script)
 
-> 3. After the scripting finishes you just need to start/restart the compute nodes.
+3. After the scripting finishes you just need to start/restart the compute nodes.
 
 computer node's username and password will be 'root' to login.
 
 
 Reference URL Links:
 
-1. https://github.com/openhpc/ohpc/releases/download/v1.3.9.GA/Install_guide-CentOS7-xCAT-Stateless-SLURM-1.3.9-x86_64.pdf
-2. https://github.com/openhpc/ohpc/releases/download/v1.3.9.GA/Install_guide-CentOS7-xCAT-Stateful-SLURM-1.3.9-x86_64.pdf
+> 1. https://github.com/openhpc/ohpc/releases/download/v1.3.9.GA/Install_guide-CentOS7-xCAT-Stateless-SLURM-1.3.9-x86_64.pdf
+> 2. https://github.com/openhpc/ohpc/releases/download/v1.3.9.GA/Install_guide-CentOS7-xCAT-Stateful-SLURM-1.3.9-x86_64.pdf
